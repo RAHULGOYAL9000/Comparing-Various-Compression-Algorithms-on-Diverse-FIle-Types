@@ -2,7 +2,7 @@
 
 
 File Compression and Decompression Program
-This repository contains C programs for compressing and decompressing files using three algorithms: Huffman Coding, Lempel-Ziv-Welch (LZW), and Run-Length Encoding (RLE). Additionally, it includes a fourth program, fullcode.c, which combines all features and can automatically select the optimal algorithm based on the file's characteristics.
+This repository contains C programs for compressing and decompressing files using three algorithms: Huffman Coding,Lempel-Ziv-Welch (LZW), and Run-Length Encoding (RLE). Additionally, it includes a fourth program, fullcode.c, which combines all features and can automatically select the optimal algorithm based on the file's characteristics.
 
 Files
 Individual Algorithms:
